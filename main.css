@@ -1,0 +1,10 @@
+.container {
+    margin: 0 auto;
+}
+.btn:focus {
+    box-shadow: none;
+}
+
+.time {
+    font-size: 10rem;
+}
